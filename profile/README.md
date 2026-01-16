@@ -10,4 +10,40 @@ Este projeto foi desenvolvido por:
   <li><a href="https://github.com/kauelivio" target="_blank">Kauê Livio - RM: 62404</a></li>
 </ul>
 
+# 1 - Identidade Visual
+<p><b>MindEase</b> - Organize com calma, produza com foco.<br/>
+O MindEase surge com o objetivo é facilitar a vida acadêmica e profissional de pessoas neurodivergentes e/ou com desafios de processamento cognitivo.
+O site e o aplicativo foram pensados para que o usuário não tenha mais um cansaço mental ao navegar nos sistemas.
+Portanto a escolha das cores e fontes tenta refletir esta mensagem.</p>
 
+## 1.1 - Paleta de Cores
+<p>A escolha da paleta de cores visa equilibrar energia e o relaxamento. Cores mais neutras foram empregadas em tons suavez para que o usuário não tenha cansaço, ou force muito a vista durante o uso continuo da ferramenta:
+ <ul>
+  <li><img src="https://img.shields.io/static/v1?label=&message=%20&color=E59886&style=for-the-badge" height="20"> | '#E59886' | Coral Suave: Representa a vitalidade, o calor humano e a criatividade. É uma cor que chama a atenção sem causar o alerta agressivo do vermelho.</li>
+  <li><img src="https://img.shields.io/static/v1?label=&message=%20&color=5B8DBE&style=for-the-badge" height="20"> | '#5B8DBE' | Azul Serenidade: A cor da confiança e da estabilidade. No app, ela guia o usuário pelo fluxo de trabalho de forma pacífica, reduzindo a ansiedade de ter muitas tarefas.</li>
+  <li><img src="https://img.shields.io/static/v1?label=&message=%20&color=A8DBA8&style=for-the-badge" height="20"> | '#A8DBA8' | Verde Equilíbrio: Transmite crescimento, renovação e a sensação de "dever cumprido" ao concluir uma tarefa.</li>
+  <li><img src="https://img.shields.io/static/v1?label=&message=%20&color=F5D06C&style=for-the-badge" height="20"> | '#F5D06C' | Amarelo Suave: Utilizado para estados "em andamento", trazendo otimismo e foco na ação presente.</li>
+  <li><img src="https://img.shields.io/static/v1?label=&message=%20&color=2C3E50&style=for-the-badge" height="20"> | '#2C3E50' | Marinho Profundo (Texto/Contraste): Substitui o preto puro para dar uma leitura mais suave e moderna, mantendo a autoridade.</li>
+ </ul>
+</p>
+
+## 1.2 - Tipografia
+<p>O logotipo utiliza fontes com contrastes que comunicam a essência do produto:
+<ul>
+  <li>Mind | "Caviar Dreams" | O uso de uma fonte sem serifa, estruturada e em negrito, comunica organização, clareza e seriedade. É o lado "lógico" do planejamento.</li>
+  <li>Ease | "Freestyle Script" | A fonte cursiva e fluida representa a flexibilidade, a leveza e o toque humano. Ela quebra a rigidez da lista de tarefas, lembrando que a vida deve fluir.</li>
+  <li>Corpo do Texto | "Raleway" | Para a interface, utilizamos fontes de alta legibilidade, com traços arredondados que mantêm a amigabilidade do design.</li>
+</ul>
+</p>
+
+## 2. Iconografia e Elementos Visuais
+<p>
+  <ul>
+    <li>O Símbolo (Cérebro): Desenhado com linhas orgânicas e suaves, o ícone do cérebro não é clínico, mas sim convidativo. Ele reforça que o app cuida do seu principal ativo: sua mente.</li>
+    <li>Cards Arredondados: O uso de border-radius generoso (cantos bem arredondados) remove a agressividade visual das quinas, tornando a interface mais "gentil" aos olhos.</li>
+    <li>Espaçamento (White Space): O layout prioriza o respiro. Menos informação visual por tela significa menos carga cognitiva para o usuário.</li>
+  </ul>
+</p>
+
+## 3. Modo Escuro (Dark Mode)
+<p>A paleta de modo escuro foi projetada para uso noturno ou para usuários com sensibilidade visual. O fundo em <img src="https://img.shields.io/static/v1?label=&message=%20&color=2C3E50&style=for-the-badge" height="20">Marinho Profundo reduz a emissão de luz azul, enquanto os tons de azul e verde pastéis mantêm o contraste necessário para o foco sem agredir a visão.</p>
