@@ -10,6 +10,18 @@ Este projeto foi desenvolvido por:
   <li><a href="https://github.com/kauelivio" target="_blank">Kauê Livio - RM: 62404</a></li>
 </ul>
 
+<p>Visto que possuimos duas visualizações para o MindEase (Mobile e Web) criamos ramificações desta documentação afim de que o que é específico de mobile, fique restrito ao diretório mobile e o de web fique apenas no web.</p>
+
+#### 🌐 Documentação Web 
+> [Aplicação Web do sistema](https://github.com/TC5Hackatton/web)
+
+#### 📱 Documentação Mobile
+[> Aplicação Mobile do sistema](https://github.com/TC5Hackatton/mobile)
+
+
+
+
+
 # 1 - Identidade Visual
 <p><b>MindEase</b> - Organize com calma, produza com foco.<br/>
 O MindEase surge com o objetivo é facilitar a vida acadêmica e profissional de pessoas neurodivergentes e/ou com desafios de processamento cognitivo.
