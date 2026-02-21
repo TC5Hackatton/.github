@@ -13,7 +13,7 @@ Este projeto foi desenvolvido por:
 <p>Visto que possuimos duas visualizações para o MindEase (Mobile e Web) criamos ramificações desta documentação afim de que o que é específico de mobile, fique restrito ao diretório mobile e o de web fique apenas no web.</p>
 
 #### 🌐 Documentação Web 
-> [Aplicação Web do sistema](https://github.com/TC5Hackatton/web)
+[> Aplicação Web do sistema](https://github.com/TC5Hackatton/web)
 
 #### 📱 Documentação Mobile
 [> Aplicação Mobile do sistema](https://github.com/TC5Hackatton/mobile)
