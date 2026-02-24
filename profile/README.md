@@ -18,10 +18,6 @@ Este projeto foi desenvolvido por:
 #### 📱 Documentação Mobile
 [> Aplicação Mobile do sistema](https://github.com/TC5Hackatton/mobile)
 
-
-
-
-
 # 1 - Identidade Visual
 <p><b>MindEase</b> - Organize com calma, produza com foco.<br/>
 O MindEase surge com o objetivo é facilitar a vida acadêmica e profissional de pessoas neurodivergentes e/ou com desafios de processamento cognitivo.
@@ -59,3 +55,16 @@ Portanto a escolha das cores e fontes tenta refletir esta mensagem.</p>
 
 ## 3. Modo Escuro (Dark Mode)
 <p>A paleta de modo escuro foi projetada para uso noturno ou para usuários com sensibilidade visual. O fundo em <img src="https://img.shields.io/static/v1?label=&message=%20&color=2C3E50&style=for-the-badge" height="20">Marinho Profundo reduz a emissão de luz azul, enquanto os tons de azul e verde pastéis mantêm o contraste necessário para o foco sem agredir a visão.</p>
+
+## 4. Logotipo
+O logotipo do aplicativo consiste em uma simbolo: cérebro. E o nome do app em duas fontes distintas na intenção de trazer leveza e simplicidade para o entendimento do foco do aplicativo/sistema.
+
+#### 4.1 - O Conceito
+A identidade visual do MindEase nasce da intersecção entre a necessidade de estrutura e o desejo de leveza. Entendemos que mentes neurodivergentes não precisam de "conserto", mas de um ambiente que respeite seu funcionamento único. O logotipo reflete isso: uma base sólida para o pensamento (Mind) que flui naturalmente para a simplificação (Ease).
+
+#### 4.2 - Pilares da Comunicação Visual
+<ul>
+  <li>Clareza Sem Ruído: Assim como nosso logo, a interface do app prioriza o respiro visual. Menos ícones, mais significado.</li>
+  <li>Cromoterapia Cognitiva: Utilizamos tons que reduzem a fadiga ocular, ideal para períodos longos de estudo ou trabalho.</li>
+  <li>Tipografia Inclusiva: A combinação de fontes auxilia na hierarquia da informação, ajudando o usuário a identificar rapidamente o que é prioridade (foco no TDAH e Dislexia).</li>
+</ul>
