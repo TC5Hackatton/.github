@@ -59,6 +59,30 @@ Portanto a escolha das cores e fontes tenta refletir esta mensagem.</p>
 ## 4. Logotipo
 O logotipo do aplicativo consiste em uma simbolo: cérebro. E o nome do app em duas fontes distintas na intenção de trazer leveza e simplicidade para o entendimento do foco do aplicativo/sistema.
 
+<table border="0">
+  <tr>
+    <td align="center" width="250">
+      <img width="230" height="245" alt="MindEase Logo Vertical - Modo Claro" src="https://github.com/user-attachments/assets/68838cc1-2d04-48fa-93cc-9777cfc226c6" /><br />
+      <sub>Logo MindEase vertical modo claro.</sub>
+    </td>
+    <td align="center" width="250">
+      <img width="231" height="245" alt="MindEase Logo Vertical - Modo Escuro" src="https://github.com/user-attachments/assets/7f16b52c-c77d-4e4a-975e-ba7dc3742797" /<br />
+      <sub>Logo MindEase vertical modo escuro.</sub>
+    </td>
+  </tr>
+
+   <tr>
+    <td align="center" width="250">
+      <img width="411" height="142" alt="MindEase Logo Horizontal - Modo Claro" src="https://github.com/user-attachments/assets/6ba323df-ef1c-465f-b389-aef55a983300" /><br />
+      <sub>Logo MindEase horizontal modo claro.</sub>
+    </td>
+    <td align="center" width="250">
+      <img width="411" height="144" alt="MindEase Logo Horizontal - Modo Escurot" src="https://github.com/user-attachments/assets/ebcad11c-8c04-45d1-8b57-a61dc7958abd" /><br />
+      <sub>Logo MindEase horizontal modo escuro.</sub>
+    </td>
+  </tr>
+</table>
+
 #### 4.1 - O Conceito
 A identidade visual do MindEase nasce da intersecção entre a necessidade de estrutura e o desejo de leveza. Entendemos que mentes neurodivergentes não precisam de "conserto", mas de um ambiente que respeite seu funcionamento único. O logotipo reflete isso: uma base sólida para o pensamento (Mind) que flui naturalmente para a simplificação (Ease).
 
@@ -68,3 +92,12 @@ A identidade visual do MindEase nasce da intersecção entre a necessidade de es
   <li>Cromoterapia Cognitiva: Utilizamos tons que reduzem a fadiga ocular, ideal para períodos longos de estudo ou trabalho.</li>
   <li>Tipografia Inclusiva: A combinação de fontes auxilia na hierarquia da informação, ajudando o usuário a identificar rapidamente o que é prioridade (foco no TDAH e Dislexia).</li>
 </ul>
+
+#### 5 - Capturas de Tela
+Como o Hackaton refere-se a dois sistemas, distintos porém integrados, as capturas de tela estão separadas por aplicação. Desta forma temos os prints:
+
+#### 🌐 Capturas de Tela Web 
+[> Capturas de Tela do Sistema Web]()
+
+#### 📱 Capturas de Tela Mobile
+[> Capturas de Tela do Mobile]()
