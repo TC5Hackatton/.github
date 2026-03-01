@@ -96,8 +96,65 @@ A identidade visual do MindEase nasce da intersecção entre a necessidade de es
 #### 5 - Capturas de Tela
 Como o Hackaton refere-se a dois sistemas, distintos porém integrados, as capturas de tela estão separadas por aplicação. Desta forma temos os prints:
 
-#### 🌐 Capturas de Tela Web 
-[> Capturas de Tela do Sistema Web]()
+##### 5.1 Mobile
+<table border="0">
+  <thead>
+    <tr>
+      <th colspan="5" align="center"><h5>Mobile - Modo Claro</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="250"><img width="1080" height="2424" alt="SplashScreen" src="https://github.com/user-attachments/assets/afba6aa0-54df-4b74-ac02-0cf6cde44421" />
+      <sub>SplashScreen MindEase.</sub>
+      </td>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Dashboard" src="https://github.com/user-attachments/assets/034dd27a-8b21-458a-8488-16f7729b26cf" />
+      <sub>Dashboard MindEase.</sub>
+      </td>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Listagem de Tarefas_1" src="https://github.com/user-attachments/assets/7dea9d70-76f5-4171-8e01-1a07b89562dc" />
+      <sub>Listagem de Tarefas - TODO</sub>
+      </td>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Listagem de Tarefas_2" src="https://github.com/user-attachments/assets/39f7035d-0df8-471c-952f-fd2ddb617454" />
+      <sub>Listagem de Tarefas - DOING</sub>
+      </td>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Listagem de Tarefas_3" src="https://github.com/user-attachments/assets/1224a85f-55b6-4794-8c96-6f8e585afb86" />
+      <sub>Listagem de Tarefas - DONE</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Cadastro de Tarefa" src="https://github.com/user-attachments/assets/728eefa6-5026-48ac-80da-a997503f7f34" />
+      <sub>Cadastro de Tarefa</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-#### 📱 Capturas de Tela Mobile
-[> Capturas de Tela do Mobile]()
+<table border="0">
+  <thead>
+    <tr>
+      <th colspan="5" align="center"><h5>Mobile - Modo Escuro</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Screenshot_1772379970" src="https://github.com/user-attachments/assets/db54a602-9bc9-4b87-b134-90a9d099f1b4" />
+      <sub>Dashboard MindEase.</sub>
+      </td>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Screenshot_1772379978" src="https://github.com/user-attachments/assets/2ba5b122-c747-44e2-9512-dfe3abe69486" />
+      <sub>Preferências do Sistema</sub>
+      </td>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Screenshot_1772379980" src="https://github.com/user-attachments/assets/e37a51c5-5952-4218-9057-fc37c670300e" />
+      <sub>Preferências do Sistema - 2</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250"><img width="1080" height="2424" alt="Screenshot_1772380092" src="https://github.com/user-attachments/assets/a74142e9-5230-480f-b886-1d8fc1e83c93" />
+      <sub>Cadastro de Tarefa</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+O sistema oferece suporte nativo aos modos claro e escuro na maioria das interfaces. Esta funcionalidade vai além da estética: é uma ferramenta de acessibilidade cognitiva. Para usuários com TDAH ou sensibilidade sensorial, a alternância de temas ajuda a reduzir a fadiga visual e o 'ruído' na tela, facilitando a manutenção do foco e a organização mental durante o uso prolongado.
+
+##### 5.2 Web
