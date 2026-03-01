@@ -158,3 +158,39 @@ Como o Hackaton refere-se a dois sistemas, distintos porém integrados, as captu
 O sistema oferece suporte nativo aos modos claro e escuro na maioria das interfaces. Esta funcionalidade vai além da estética: é uma ferramenta de acessibilidade cognitiva. Para usuários com TDAH ou sensibilidade sensorial, a alternância de temas ajuda a reduzir a fadiga visual e o 'ruído' na tela, facilitando a manutenção do foco e a organização mental durante o uso prolongado.
 
 ##### 5.2 Web
+
+<table border="0">
+  <thead>
+    <tr>
+      <th colspan="6" align="center"><h5>Web - Modo Claro</h5></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="250">
+        <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/28bf41ad-8ba6-4cfb-890b-338c0ecb817d" />
+        <sub>Tela de Login - Web</sub>
+      </td>
+      <td align="center" width="250">
+        <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/24e188ef-4297-41f0-b52c-bb28dd1969a1" />
+        <sub>Tela de Cadastro</sub>
+      </td>
+      <td align="center" width="250">
+      <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/c8535313-33e7-4923-830d-53ca95de7c54" />
+      <sub>Tela de Dashboard</sub>
+      </td>
+      <td align="center" width="250">
+        <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/2ef6ee0e-ee8f-4197-96fd-c5bf4e029c8a" />
+        <sub>Tela de Visualização de Tarefas</sub>
+      </td>
+      <td align="center" width="250">
+        <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/ea38df61-37d3-4fcf-875c-e2b7cfa3f8de" />
+        <sub>Modal para cadastro de uma nova tarefa - Cronômetro</sub>
+      </td>
+       <td align="center" width="250">
+        <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/eb3f2eed-2e60-4456-bac4-cf809032cceb" />
+        <sub>Modal para cadastro de uma nova tarefa - Tempo Fixo</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
