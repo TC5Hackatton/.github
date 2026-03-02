@@ -125,6 +125,10 @@ Como o Hackaton refere-se a dois sistemas, distintos porém integrados, as captu
       <td align="center" width="250"><img width="1080" height="2424" alt="Cadastro de Tarefa" src="https://github.com/user-attachments/assets/728eefa6-5026-48ac-80da-a997503f7f34" />
       <sub>Cadastro de Tarefa</sub>
       </td>
+      <td align="center" width="250">
+        <img width="1875" height="925" alt="ModoFoco" src="https://github.com/user-attachments/assets/1b3d0a32-bf22-4097-a6fa-56be42077a09" />
+        <sub>Modo Foco no Mobile</sub>
+      </td>
     </tr>
   </tbody>
 </table>
