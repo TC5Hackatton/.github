@@ -18,6 +18,37 @@ Este projeto foi desenvolvido por:
 #### 📱 Documentação Mobile
 [> Aplicação Mobile do sistema](https://github.com/TC5Hackatton/mobile)
 
+# Sobre o MindEase
+Em um mundo digital cada vez mais acelerado e visualmente poluído, a concentração e o bem-estar mental tornaram-se artigos de luxo. Para indivíduos neurodivergentes ou pessoas que enfrentam desafios como burnout, TDAH e ansiedade, essa realidade é ainda mais intensa. O MindEase nasceu não como mais um aplicativo de tarefas, mas como uma resposta direta a essa dor: uma ferramenta de produtividade projetada desde sua concepção para ser um santuário digital, onde a organização e o foco andam de mãos dadas com o conforto e a acessibilidade.
+
+Nosso projeto se sustenta em três pilares fundamentais que demonstram uma maturidade técnica e uma visão de produto que transcendem o ambiente acadêmico:
+
+### Acessibilidade
+Nós não construímos um aplicativo para depois "adicionar" recursos de acessibilidade. Nós projetamos uma experiência fundamentalmente acessível e a transformamos em um aplicativo.
+
+<ul>
+  <li><b>Modo Escuro</b>: Nosso modo escuro vai além da estética. É uma ferramenta de design inclusivo, pensada para reduzir a sobrecarga sensorial em usuários com autismo e a fadiga visual em casos de enxaqueca. Utilizamos um contraste cuidadosamente otimizado — evitando o preto absoluto — para prevenir o "efeito halo" que pode dificultar a leitura para pessoas com dislexia, garantindo conforto e legibilidade.</li>
+  <li><b>Empoderamento do Usuário</b>: A personalização é total. O usuário pode ajustar o tamanho da fonte e definir tempos padrão para suas tarefas, assumindo o controle de sua experiência e adaptando o ambiente digital às suas necessidades sensoriais e de foco.</li>
+</ul>
+
+### Arquitetura Profissional - Clean Architecture
+Sob uma interface intuitiva e acolhedora, reside uma arquitetura de software robusta, escalável e de padrão industrial: a Clean Architecture.
+
+<ul>
+  <li><b>Estrutura Profissional</b>: A separação clara entre as camadas de Domínio (regras de negócio), Infraestrutura (tecnologias) e Apresentação (UI) é um diferencial técnico imenso. Isso demonstra não apenas a capacidade de codificar, mas de projetar sistemas complexos que são fáceis de manter, testar e evoluir — uma prática comum em equipes de alta performance no mercado.</li>
+  <li><b>Tecnologia de Ponta</b>: Adotamos um stack moderno e poderoso com React Native, Expo, TypeScript e Firebase, garantindo uma aplicação multiplataforma, segura e com uma base de código limpa e previsível.</li>
+</ul>
+
+### Testes Automatizados
+Para nosso público-alvo, um comportamento inesperado no software não é um mero inconveniente; é uma quebra de confiança que pode gerar ansiedade e frustração. Por isso, a qualidade não foi negociável.
+
+<ul>
+  <li><b>Cobertura Abrangente</b>: Atingimos a impressionante marca de 282 testes automatizados aprovados, distribuídos em 38 suítes de teste. Essa cobertura não é superficial: ela valida desde as regras de negócio mais críticas na camada de Domínio até a reatividade e consistência dos componentes de interface, como cronômetros e a troca de temas.</li>
+  <li><b>Garantia de Confiabilidade</b>: Essa cultura de testes rigorosa, utilizando Jest e React Testing Library, assegura que o MindEase seja uma ferramenta estável e previsível. É a nossa promessa de que o aplicativo será um espaço seguro e livre de estresse, onde o usuário pode confiar plenamente na tecnologia para organizar sua vida.</li>
+</ul>
+
+O MindEase é a materialização de um processo de desenvolvimento que une propósito social com as melhores e mais modernas práticas de engenharia de software. Este projeto não entrega apenas as funcionalidades esperadas de um gestor de tarefas; ele entrega uma aplicação coesa, resiliente, profundamente humana e pronta para o mercado.
+
 # 1 - Identidade Visual
 <p><b>MindEase</b> - Organize com calma, produza com foco.<br/>
 O MindEase surge com o objetivo é facilitar a vida acadêmica e profissional de pessoas neurodivergentes e/ou com desafios de processamento cognitivo.
@@ -34,7 +65,6 @@ Portanto a escolha das cores e fontes tenta refletir esta mensagem.</p>
   <li><img src="https://img.shields.io/static/v1?label=&message=%20&color=2C3E50&style=for-the-badge" height="20"> | '#2C3E50' | Marinho Profundo (Texto/Contraste): Substitui o preto puro para dar uma leitura mais suave e moderna, mantendo a autoridade.</li>
  </ul>
 </p>
-
 ## 1.2 - Tipografia
 <p>O logotipo utiliza fontes com contrastes que comunicam a essência do produto:
 <ul>
@@ -166,32 +196,34 @@ O sistema oferece suporte nativo aos modos claro e escuro na maioria das interfa
 <table border="0">
   <thead>
     <tr>
-      <th colspan="6" align="center"><h5>Web - Modo Claro</h5></th>
+      <th colspan="3" align="center"><h5>Web - Modo Claro</h5></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="250">
+      <td align="center" width="600">
         <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/28bf41ad-8ba6-4cfb-890b-338c0ecb817d" />
         <sub>Tela de Login - Web</sub>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="600">
         <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/24e188ef-4297-41f0-b52c-bb28dd1969a1" />
         <sub>Tela de Cadastro</sub>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="600">
       <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/c8535313-33e7-4923-830d-53ca95de7c54" />
       <sub>Tela de Dashboard</sub>
       </td>
-      <td align="center" width="250">
+    </tr>
+    <tr>
+      <td align="center" width="600">
         <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/2ef6ee0e-ee8f-4197-96fd-c5bf4e029c8a" />
         <sub>Tela de Visualização de Tarefas</sub>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="600">
         <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/ea38df61-37d3-4fcf-875c-e2b7cfa3f8de" />
         <sub>Modal para cadastro de uma nova tarefa - Cronômetro</sub>
       </td>
-       <td align="center" width="250">
+       <td align="center" width="600">
         <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/eb3f2eed-2e60-4456-bac4-cf809032cceb" />
         <sub>Modal para cadastro de uma nova tarefa - Tempo Fixo</sub>
       </td>
