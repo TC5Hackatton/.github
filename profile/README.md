@@ -159,6 +159,18 @@ Como o Hackaton refere-se a dois sistemas, distintos porém integrados, as captu
         <img width="1875" height="925" alt="ModoFoco" src="https://github.com/user-attachments/assets/1b3d0a32-bf22-4097-a6fa-56be42077a09" />
         <sub>Modo Foco no Mobile</sub>
       </td>
+      <td align="center" width="250">
+        <img width="1080" height="2424" alt="Screenshot_1772722672" src="https://github.com/user-attachments/assets/23613dcd-898c-4cf7-9500-29042d9f7170" />
+        <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (P)</sub>
+      </td>
+      <td align="center" width="250">
+        <img width="1080" height="2424" alt="Screenshot_1772722669" src="https://github.com/user-attachments/assets/339d36fc-96eb-4ca4-ad31-2b990f0e5be2" />
+        <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (M - Default)</sub>
+      </td>
+      <td align="center" width="250">
+        <img width="1080" height="2424" alt="Screenshot_1772722674" src="https://github.com/user-attachments/assets/6471fc98-4e61-4ded-8a27-dd994d73e0ad" />
+        <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (G)</sub>
+      </td>
     </tr>
   </tbody>
 </table>
