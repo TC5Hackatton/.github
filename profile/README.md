@@ -228,5 +228,19 @@ O sistema oferece suporte nativo aos modos claro e escuro na maioria das interfa
         <sub>Modal para cadastro de uma nova tarefa - Tempo Fixo</sub>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="600">
+      <img width="1873" height="922" alt="image" src="https://github.com/user-attachments/assets/985a49ae-f538-4ecb-a5f8-77da695575d4" />
+      <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (P)</sub>
+      </td>
+       <td align="center" width="600">
+         <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/884758ef-4fc7-492e-a097-b1e641cb1609" />
+         <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (M - Default)</sub>
+      </td>
+      <td align="center" width="600">
+         <img width="1872" height="923" alt="image" src="https://github.com/user-attachments/assets/1a40f3b7-b4c4-4676-9814-df17567032b7" />
+         <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (G)</sub>
+      </td>   
+    </tr>
   </tbody>
 </table>
