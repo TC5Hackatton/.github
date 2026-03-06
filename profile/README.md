@@ -254,5 +254,15 @@ O sistema oferece suporte nativo aos modos claro e escuro na maioria das interfa
          <sub>Preferências - Ajuste do Tamanho da fonte para melhor leitura (G)</sub>
       </td>   
     </tr>
+    <tr>
+      <td align="center" width="600">
+         <img width="2875" height="1464" alt="image" src="https://github.com/user-attachments/assets/9b31ed77-f8ac-453a-9e41-e54946e90dcb" />
+         <sub>Modo Foco Web</sub>
+      </td> 
+      <td align="center" width="600">
+         <img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/e61d3b40-5dbc-4f26-962d-fc60435e4cdb" />
+         <sub>Modo Foco Web</sub>
+      </td>  
+    </tr>  
   </tbody>
 </table>
